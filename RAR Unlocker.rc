@@ -148,8 +148,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,0,0,1
- PRODUCTVERSION 1,0,0,1
+ FILEVERSION 4,0,0,0
+ PRODUCTVERSION 4,0,0,0
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -165,12 +165,12 @@ BEGIN
         BLOCK "040904B0"
         BEGIN
             VALUE "FileDescription", "RAR Unlocker Module"
-            VALUE "FileVersion", "1, 0, 0, 1"
+            VALUE "FileVersion", "4, 0, 0, 0"
             VALUE "InternalName", "RAR Unlocker"
             VALUE "LegalCopyright", "Copyright 2016"
             VALUE "OriginalFilename", "RAR Unlocker.exe"
             VALUE "ProductName", "RAR Unlocker Module"
-            VALUE "ProductVersion", "1, 0, 0, 1"
+            VALUE "ProductVersion", "4, 0, 0, 0"
         END
     END
     BLOCK "VarFileInfo"
