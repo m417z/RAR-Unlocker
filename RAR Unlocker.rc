@@ -164,12 +164,12 @@ BEGIN
     BEGIN
         BLOCK "040904B0"
         BEGIN
-            VALUE "FileDescription", "RAR Unlocker Module"
+            VALUE "FileDescription", "RAR Unlocker"
             VALUE "FileVersion", "4, 0, 0, 0"
             VALUE "InternalName", "RAR Unlocker"
             VALUE "LegalCopyright", "Copyright 2016"
             VALUE "OriginalFilename", "RAR Unlocker.exe"
-            VALUE "ProductName", "RAR Unlocker Module"
+            VALUE "ProductName", "RAR Unlocker"
             VALUE "ProductVersion", "4, 0, 0, 0"
         END
     END
