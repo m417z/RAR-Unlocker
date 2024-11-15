@@ -95,7 +95,7 @@ namespace
 	int Help(HINSTANCE hInstance, const WCHAR* archive)
 	{
 		const WCHAR* usageText =
-			L"Usage:\nrar_unlocker.exe archive.rar [-unlock | -lock]";
+			L"Usage:\nrar_unlocker.exe archive.rar [--unlock | --lock]";
 
 		::MessageBox(NULL, usageText, L"Usage", MB_ICONINFORMATION);
 
